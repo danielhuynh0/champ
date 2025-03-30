@@ -1,7 +1,3 @@
-[submodule "ros2_ws/src/champ"]
-	path = ros2_ws/src/champ
-	url = https://github.com/chvmp/champ.git
-	branch = ros2
 [submodule "ros2_ws/src/spot_ros2"]
 	path = ros2_ws/src/spot_ros2
 	url = https://github.com/bdaiinstitute/spot_ros2.git
@@ -13,3 +9,6 @@
 	path = ros2_ws/src/robots
 	url = https://github.com/chvmp/robots.git
 	branch = ros2
+[submodule "ros2_ws/champ"]
+	path = ros2_ws/champ
+	url = https://github.com/danielhuynh0/champ.git
